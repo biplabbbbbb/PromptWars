@@ -1,79 +1,35 @@
-# MentorAI
+# ⚔️ Prompt Wars
 
-> AI-powered final-year project discovery and mentoring platform.
+> An interactive AI-powered prompt battle platform where users compete by creating powerful prompts and testing their creativity.
 
-MentorAI helps students find suitable final-year project ideas based on their interests, skill level, and preferred technology stack.
+## 🚀 Live Demo
 
-The platform provides personalized project recommendations along with architecture, core features, technology stack, roadmap, challenges, and mentor guidance.
+🔗 **Try Prompt Wars:**  
+https://prompt-wars-k8gx38wlq-heros10.vercel.app
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 🎯 Personalized project recommendations
-- 🧠 Interest-based project matching
-- 📊 Skill-level based recommendations
-- 💻 Technology stack selection
-- 📈 Project match scores
-- 🏗️ Project architecture overview
-- ⚙️ Core project features
-- 🛠️ Recommended technology stack
-- 🗺️ Step-by-step project roadmap
-- ⚠️ Common project challenges
-- 🤖 AI Mentor guidance
-- 🌙 Modern dark/light interface
-- ✨ Smooth animations and responsive UI
+- 🤖 AI-powered prompt challenges
+- ⚔️ Competitive prompt battles
+- 🧠 Test and improve prompt engineering skills
+- 🎯 Challenge-based gameplay
+- 📊 Prompt evaluation and scoring
+- 🏆 Competitive experience
+- 🎨 Modern and responsive UI
+- ⚡ Fast web experience
 
 ---
 
 ## 🎯 How It Works
 
-### 1. Select Your Interests
-
-Choose areas such as:
-
-- Web Development
-- AI / Machine Learning
-- Cybersecurity
-- IoT
-- Mobile Development
-- Cloud / DevOps
-
-### 2. Select Your Skill Level
-
-Choose:
-
-- Beginner
-- Intermediate
-- Advanced
-
-### 3. Select Your Technology Stack
-
-Add technologies you already know or want to work with.
-
-Examples:
-
-- Python
-- React
-- Next.js
-- PostgreSQL
-- JavaScript
-- TypeScript
-
-### 4. Get Recommendations
-
-MentorAI analyzes the selected preferences and provides suitable project recommendations with match scores.
-
-### 5. Explore Your Project
-
-Each recommended project includes:
-
-- Architecture
-- Core Features
-- Tech Stack
-- Development Roadmap
-- Challenges
-- Mentor Advice
+1. Start a Prompt War challenge.
+2. Read the given challenge or objective.
+3. Create the best possible prompt.
+4. Submit your prompt.
+5. The system evaluates the prompt.
+6. Compare your performance and improve your prompting skills.
 
 ---
 
@@ -85,51 +41,21 @@ Each recommended project includes:
 - TypeScript
 - Vite
 - Tailwind CSS
-- Framer Motion
-- Lucide React
 
-### Backend / AI
+### AI
 
-- Node.js
-- Gemini API
+- Generative AI
+- Prompt Engineering
 
-### Development Tools
+### Deployment
 
-- VS Code
-- Git
-- npm
+- Vercel
 
 ---
 
-## 📁 Project Structure
+## 📦 Installation
 
-```text
-project/
-│
-├── src/
-│   ├── components/
-│   │   ├── AnimatedBackground.tsx
-│   │   ├── DynamicIcon.tsx
-│   │   ├── Logo.tsx
-│   │   ├── Navbar.tsx
-│   │   └── ThemeToggle.tsx
-│   │
-│   ├── data/
-│   │   ├── projects.ts
-│   │   └── types.ts
-│   │
-│   ├── pages/
-│   │   ├── AssessmentForm.tsx
-│   │   ├── LandingPage.tsx
-│   │   ├── LoadingView.tsx
-│   │   ├── MentorView.tsx
-│   │   └── ResultsDashboard.tsx
-│   │
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx
-│
-├── package.json
-├── vite.config.ts
-├── tailwind.config.js
-└── README.md
+Clone the repository:
+
+```bash
+git clone <YOUR_GITHUB_REPOSITORY_URL>

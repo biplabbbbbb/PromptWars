@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 
 🔗 **Try Prompt Wars:**  
-https://prompt-wars-k8gx38wlq-heros10.vercel.app
+https://prompt-wars-pink-five.vercel.app
 
 ---
 

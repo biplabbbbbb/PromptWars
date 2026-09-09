@@ -11,7 +11,7 @@ https://prompt-wars-pink-five.vercel.app
 
 ## ✨ Features
 
-- 🤖 AI-powered prompt challenges
+- 🤖 AI-powered prompt challenge
 - ⚔️ Competitive prompt battles
 - 🧠 Test and improve prompt engineering skills
 - 🎯 Challenge-based gameplay
